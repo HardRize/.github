@@ -3,9 +3,16 @@
 
 
 
-![alt text](https://www.recreoviral.com/wp-content/uploads/2015/12/Fotografías-más-divertidas-de-animales-2015-1.jpg)
 
-![alt text](https://i.imgur.com/10CVPsI.jpeg)
+<p align="center">
+  <img src="https://media.tenor.com/0tfuuzqi-XEAAAAC/computer-monster.gif" />
+</p>
+
+<h2 align="center">Охраняет README.md</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HardRize/.github/main/profile/Xd_nPMe0NW0.jpg" />
+</p>
 
 
 
